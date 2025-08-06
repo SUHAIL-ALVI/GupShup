@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div className='text-5xl text-amber-100'>Navbar</div>
   )
 }
 
