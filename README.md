@@ -161,7 +161,7 @@ Follow these steps to set up the project locally:
 
 ## 📸 Screenshots
 
-*(Add screenshots of the application here)*
+
 
 ## 🤝 Contributing
 
@@ -187,3 +187,4 @@ Thank you for checking out this project! I hope it's helpful and inspiring.
 
 ---
 Develope by Suhail with ❤️
+
