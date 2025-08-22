@@ -5,7 +5,7 @@ This project is a full-stack real-time chat application that allows users to com
 
 ## ✨ Key Features
 
-- **Real-time Messaging:** Send and receive messages instantly using Socket.IO. ✉
+- **Real-time Messaging:** Send and receive messages instantly using Socket.IO. ✉ 
 - **User Authentication:** Secure signup, login, and logout functionality. 🔒
 - **Profile Management:** Update user profile information, including avatar and username. 👤
 - **Online Status:** See which users are currently online. 🟢
@@ -187,6 +187,7 @@ Thank you for checking out this project! I hope it's helpful and inspiring.
 
 ---
 Develope by Suhail with ❤️
+
 
 
 
