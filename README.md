@@ -1,4 +1,4 @@
-#GupShup...
+#GupShup..
 # 💬 Realtime Chat Application 🚀
 
 This project is a full-stack real-time chat application that allows users to communicate with each other instantly. It features user authentication, profile management, and real-time messaging using WebSockets. The application provides a seamless and engaging user experience for staying connected with friends, family, or colleagues.
